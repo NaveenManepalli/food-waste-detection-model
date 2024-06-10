@@ -4,7 +4,7 @@ Microsoft Windows [Version 10.0.22621.2861]
 D:\Desktop Loki\yolo_proto_5> -m venv new_venv
 '-m' is not recognized as an internal or external command,
 operable program or batch file.
-     Naveen B
+
 D:\Desktop Loki\yolo_proto_5>-m venv new_venv
 '-m' is not recognized as an internal or external command,
 operable program or batch file.
